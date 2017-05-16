@@ -1,0 +1,137 @@
+body{
+    font-family: inherit;
+}
+
+footer{
+    text-align: center;
+}
+
+header{
+    text-align: center;
+    margin-bottom: 4%;
+}
+
+h1{
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+input{
+    width: 523px;
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 3.5%;
+    border: none;
+    border: solid 1px;
+    border-radius: 2px;
+    border-color: #CCCCCC;
+    background-color: #fafafa;
+    padding-left: 5px;
+}
+
+textarea{
+    width: 523px;
+    height: 150px;
+    margin-top: 5px;
+    border: none;
+    border: solid 1px;
+    border-radius: 2px;
+    border-color: #CCCCCC;
+    background-color: #fafafa;
+    padding-left: 5px;
+}
+
+button{
+    width: 130px;
+    height: 45px;
+    margin-top: 20px;
+    margin-left: 200px;
+    border: none;
+    border: solid 1px;
+    border-radius: 2px;
+    border-color: black;
+    background-color: #fafafa;
+}
+
+ul{
+    margin-right: 3%;
+    font-size: 13px;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    text-decoration: none;
+    color: black;
+}
+
+a:focus{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #565656;
+}
+
+.li-align{
+    margin-right: 5%;
+}
+
+.logo-github{
+    width: 25px;
+    height: 25px;
+}
+
+
+.logo-facebook{
+    width: 25px;
+    height: 25px;
+}
+
+.logo-twitter{
+    width: 30px;
+    height: 30px;
+}
+
+.logo-instagram{
+    width: 31px;
+    height: 31px;
+}
+
+.input-name{
+    width: 225px;
+}
+
+.div-form{
+    width: 42%;
+    float: left;
+    margin-left: 7%;
+    pos
+    /*margin-right: 3%;*/
+    padding-bottom: 0;
+}
+
+.div-maps{
+    width: 42%;
+    display: inline;
+    margin-right: 3%;
+    margin-left: 3%;
+}
+
+#section-form-maps{
+    font-size: 15px;
+    margin-bottom: 3%;
+}
+
+#input-last-name{
+    margin-left: 11.5%;
+}

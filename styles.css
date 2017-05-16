@@ -1,0 +1,26 @@
+body{
+    margin: 10% 10% 10% 10%;
+    font-family: sans-serif;
+}
+
+h1{
+    margin-bottom: 8%;
+}
+
+h3{
+    font-size: 16px;
+    margin-bottom: 1%;
+}
+
+input{
+    width: 90%;
+}
+
+.input-last-name{
+    float: right;
+    width: 40%;
+}
+
+.input-first-name{
+    width: 40%;
+}
